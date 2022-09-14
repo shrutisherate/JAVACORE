@@ -1,4 +1,8 @@
 
+
+/* Write a function to print your name and call the function from main method */
+
+
 public class CallingFunction {
 	
 
