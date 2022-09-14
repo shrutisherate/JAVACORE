@@ -3,7 +3,7 @@
 /* create a class, object, method and its signature */
 
 
-// created a class using "class" keyword
+// created a class using "class" 
 public class CreatingClassObjectMethod {
 	
 	//created a method using methodName()
