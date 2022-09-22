@@ -38,3 +38,4 @@ class Lion extends Animal {
         L.eat();
     }
 }
+
